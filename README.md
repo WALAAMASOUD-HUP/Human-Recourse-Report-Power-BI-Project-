@@ -62,4 +62,8 @@ ________________________________________
 📎 Notes
 This project was created for portfolio and learning purposes, demonstrating HR analytics, data visualization best practices, and storytelling using Power BI.
 
-https://github.com/user-attachments/assets/19767816-632b-4d70-8490-c21830ab7f7a
+https://github.com/user-attachments/assets/091d4339-4bd6-43ff-b314-7b78e52a2995
+
+Interactive Online Report : 
+
+https://app.powerbi.com/view?r=eyJrIjoiNGU5MDFmNjItODk0Ny00YzlkLWI1YTgtOTY4NjJiMzZmODU0IiwidCI6ImUxOWY2ZjQyLTJhODQtNDhlZS04N2Y2LTUzNjQ5YzdhMzNhYSIsImMiOjl9
